@@ -1,0 +1,48 @@
+.pri-heading{
+    font-size: 3.2rem;
+    font-weight: bold;
+    color: var(--secondry-color);
+    margin-bottom: 2rem;
+}
+.sec-heading{
+    font-size: 2rem;
+    font-weight: 400;
+    color: #313841;
+    margin-bottom: 2.5rem;
+}
+.para{
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #555555;
+    margin-bottom: 4rem;
+}
+.features .sec-heading{
+    padding: 0 1rem;
+    margin-bottom: 9rem;
+}
+.features h3{
+    margin: 0 0 1.5rem;
+}
+.features i{
+    font-size: 4rem;
+    color: #010101;
+    padding: 0 2rem;
+}
+.mb-90{
+    margin-bottom: 9rem;
+}
+.features .headingFeatures{
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: var(--secondry-color);
+}
+
+/* footer section start here  */
+.lastSection .pri-heading{
+    color:var(--primary-color);
+}
+.lastSection .sec-heading{
+    color: #898989;
+}
+
+

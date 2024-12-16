@@ -1,0 +1,11 @@
+:root{
+    --primary-color:#fbdb00;
+    --secondry-color:#010101;
+    --text-color:#898989;
+}
+ul{
+    list-style: none;
+}
+a:is(:link,:visited){
+    text-decoration: none;
+}
